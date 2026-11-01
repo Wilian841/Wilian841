@@ -11,10 +11,10 @@ Los repositorios de estos proyectos son privados y no están en mi cuenta: perte
 Sistema de gestión de créditos a la medida para una financiera, en operación. Equipo de 3; fui el desarrollador principal del backend (API en ASP.NET Core 8 con Entity Framework Core y MySQL): cartera activa, cobranza, aplicación de abonos, calendario de pagos y control de acceso por roles.
 
 **KrediCash** · [kredicash.com.mx](https://kredicash.com.mx)
-Software de gestión de créditos para prestamistas pequeños, pensado como suscripción mensual. En desarrollo (MVP). Lo estoy construyendo con otro desarrollador: backend configurable por prestamista, avisos por WhatsApp Cloud API y despliegue en Railway y Vercel.
+Software de gestión de créditos para prestamistas pequeños, pensado como suscripción mensual. En desarrollo (MVP). Lo estoy construyendo con otro desarrollador: backend configurable por prestamista y despliegue en Railway y Vercel.
 
 **T-Protege** · [t-protege.dev](https://www.t-protege.dev)
-Adaptación de KrediCash para un negocio de seguros, en operación. Equipo de 2; adapté el backend al manejo de productos, carteras, contratos y cobros.
+Adaptación de KrediCash para un negocio de seguros, en operación. Equipo de 2; adapté el backend al manejo de productos, carteras, contratos y cobros, e integré avisos por WhatsApp Cloud API.
 
 ## Tecnologías
 
